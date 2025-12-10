@@ -181,7 +181,7 @@ map.html
 
 
 ## OUTPUT
-![alt text](Branzen/mapapp/static/map1.png)
+
 ![alt text](Branzen/mapapp/static/map1.png)
 ![alt text](Branzen/mapapp/static/map2.png)
 ![alt text](Branzen/mapapp/static/map3.png)
